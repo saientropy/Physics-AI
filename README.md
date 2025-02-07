@@ -12,7 +12,7 @@ This repository contains an initial implementation of an integrated framework th
   The proposed designs are evaluated by the PINN to ensure they meet physical constraints and performance criteria.
 
 - **Integration:**  
-  The PINN serves as a fast, differentiable evaluator within the inverse design loop, enabling gradient-based optimization to refine material designs.
+  The PINN serves as a fast, differentiable evaluator within the inverse design loop, enabling gradient-based optimization to refine material designs and properties
 
 
 
